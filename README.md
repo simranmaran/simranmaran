@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simran Maran</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
+<img align="right" alt="coding width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20views&color=0e75b6&style=flat" alt="simranmaran" /> </p>
 
 - 🌱 I’m currently learning **Advanced Python**
