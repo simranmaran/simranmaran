@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb)
+
 <h1 align="center">Hi 👋, I'm Simran Maran</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
