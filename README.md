@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simran Maran</h1>
 <h3 align="center">Frontend Developer | AI-ML Enthusiast | Passionate Coder | Lifelong Learner</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20views&color=blue&style=flat-square" alt="simranmaran" />
 </p>
@@ -29,13 +30,10 @@
 ## 🌟 Projects
 
 | Project | Description | Live Demo | Code |
-|---------|-------------|-----------|------|
-| 🚀 **IES FestHive** | A full-stack college event management platform with JWT authentication, React.js frontend & MongoDB | [🔗 Live Demo](https://ies-festhive.vercel.app) | [📁 GitHub](https://github.com/simranmaran/IES_Festhive) |
+|--------|-------------|-----------|------|
+| 🚀 **IES FestHive** | A full-stack college event management platform with JWT auth, React.js frontend & MongoDB | [🔗 Live Demo](https://ies-festhive.vercel.app) | [📁 GitHub](https://github.com/simranmaran/IES_Festhive) |
 | 🏨 **Hotel Booking System** | A responsive JavaScript-based hotel booking platform with real-time form validation | [🔗 Live Demo](https://hotel-booking-simran.vercel.app) | [📁 GitHub](https://github.com/simranmaran/Hotel-Bookingg-system) |
 | 🍔 **FreshFood Website** | A fully responsive HTML/CSS food ordering website | [🔗 Live Demo](https://freshfood-simran.vercel.app) | [📁 GitHub](https://github.com/simranmaran/freshfood) |
-| 💼 **Portfolio Website** | Personal portfolio showcasing my projects and skills | [🔗 Live Demo](https://simran-portfolio.vercel.app) | [📁 GitHub](https://github.com/simranmaran/Portfolio) |
-| ⚛️ **React Mini Projects** | Collection of React.js mini projects for learning and practice | [🔗 Live Demo](https://react-mini-simran.vercel.app) | [📁 GitHub](https://github.com/simranmaran/React_Mini_projects) |
-| 📊 **Power BI E-commerce Dashboard** | Visualized sales insights using bar, donut, and clustered charts | *Available on request* | *Private Repository* |
 
 ---
 
