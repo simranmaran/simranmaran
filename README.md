@@ -32,8 +32,8 @@
 | Project | Description | Live Demo | Code |
 |--------|-------------|-----------|------|
 | 🚀 **IES FestHive** | A full-stack college event management platform with JWT auth, React.js frontend & MongoDB | [🔗 Live Demo](https://ies-festhive.vercel.app) | [📁 GitHub](https://github.com/simranmaran/IES_Festhive) |
-| 🏨 **Hotel Booking System** | A responsive JavaScript-based hotel booking platform with real-time form validation | [🔗 Live Demo](hotel-bookingg-system.vercel.app) | [📁 GitHub](https://github.com/simranmaran/Hotel-Bookingg-system) |
-| 🍔 **FreshFood Website** | A fully responsive HTML/CSS food ordering website | [🔗 Live Demo](freshfood-flame.vercel.app) | [📁 GitHub](https://github.com/simranmaran/freshfood) |
+| 🏨 **Hotel Booking System** | A responsive JavaScript-based hotel booking platform with real-time form validation | [🔗 Live Demo](https://hotel-bookingg-system.vercel.app) | [📁 GitHub](https://github.com/simranmaran/Hotel-Bookingg-system) |
+| 🍔 **FreshFood Website** | A fully responsive HTML/CSS food ordering website | [🔗 Live Demo](https://freshfood-flame.vercel.app) | [📁 GitHub](https://github.com/simranmaran/freshfood) |
 
 ---
 
