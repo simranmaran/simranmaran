@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Maran</h1>
-<h3 align="center">Frontend Developer | AI-ML Enthusiast | Passionate Coder | Lifelong Learner</h3>
+<h3 align="center">FullStack Python Developer | AI-ML Enthusiast | Passionate Coder | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20views&color=blue&style=flat-square" alt="simranmaran" />
