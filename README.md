@@ -83,28 +83,32 @@ Let's build something impactful together! 🚀 -->
 ## 👩‍💻 About Me
 
 🎓 B.Tech student at <b>IES College of Technology, Bhopal</b>  
-🤖 Specialization in <b>Artificial Intelligence & Machine Learning</b>  
-💻 Passionate about building scalable backend systems & modern UIs  
-🧠 Quick learner, problem solver & strong team player  
+🤖 Specializing in <b>Artificial Intelligence & Machine Learning</b>  
+💻 Passionate about backend development, APIs & modern web apps  
+🧠 Quick learner, problem solver & team player  
 📊 Experience with <b>Power BI</b> for data analytics & visualization  
-🌐 Enjoy working with APIs & responsive frontend designs  
+🌐 Enjoy building responsive UIs & working with REST APIs  
 📫 Reach me at: <b>simranmaran10@gmail.com</b>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🔹 Backend & APIs
+### 🔹 Core Languages
 - **Python**
+- **PHP**
+- **JavaScript**
+
+### 🔹 Backend & APIs
 - **Django**
 - **Django REST Framework (DRF)**
 - **RESTful APIs**
+- **WordPress**
 
 ### 🔹 Frontend Development
 - **HTML5**
 - **CSS3**
 - **Bootstrap**
-- **JavaScript**
 - **React.js**
 
 ### 🔹 Database
@@ -143,9 +147,9 @@ Let's build something impactful together! 🚀 -->
 
 ## 📚 Certifications
 
-🏅 **NPTEL – Cloud Computing** (Elite Category, IIT Kharagpur)  
-🏅 **Unstop – E-Commerce Level 1 Participant**  
-🏅 Academic & technical projects under faculty mentorship  
+🏅 <b>NPTEL – Cloud Computing</b> (Elite Category, IIT Kharagpur)  
+🏅 <b>Unstop – E-Commerce Level 1 Participant</b>  
+🏅 Academic & technical projects completed under faculty guidance  
 
 ---
 
@@ -162,6 +166,6 @@ Let's build something impactful together! 🚀 -->
 
 ## 💬 Collaboration
 
-🚀 Open to **internships, project collaborations & learning opportunities**  
+🚀 Open to <b>internships, project collaborations & learning opportunities</b>  
 ✨ Let’s build something impactful together!
 
