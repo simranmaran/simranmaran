@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simran Maran</h1>
+<!-- <h1 align="center">Hi 👋, I'm Simran Maran</h1>
 <h3 align="center">FullStack Python Developer | AI-ML Enthusiast | Passionate Coder | Lifelong Learner</h3>
 
 <p align="center">
@@ -67,4 +67,95 @@
 
 ## 💬 Let's Collaborate
 Open to **internships, project collaborations, or learning opportunities**.  
-Let's build something impactful together! 🚀
+Let's build something impactful together! 🚀 -->
+
+<h1 align="center">Hi 👋, I'm Simran Maran</h1>
+<h3 align="center">
+Python & Web Developer • Open Source Learner • Clean Code Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+- 🎓 B.Tech (AI & ML) at **IES College of Technology, Bhopal**
+- 🧠 Strong foundation in **Python, Web Development & REST APIs**
+- 🌱 Currently learning **Open Source contribution workflow**
+- 💻 Love building **real-world, user-focused applications**
+- 🤝 Believe in **learning by building & contributing**
+
+📫 **Email:** simranmaran10@gmail.com  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript  
+**Frontend:** React.js, HTML, CSS, Bootstrap  
+**Backend:** Django (learning), Node.js (basic)  
+**Database:** SQL  
+**Tools:** Git, GitHub, VS Code, Postman, Power BI  
+**Deployment:** Vercel, Render  
+
+---
+
+## 🚀 Projects
+
+### 🔹 IES FestHive – College Event Management Platform
+- React frontend with responsive UI
+- JWT-based authentication
+- Event creation & registration flow  
+🔗 **Live:** https://ies-festhive.vercel.app  
+📁 **Code:** https://github.com/simranmaran/IES_Festhive  
+
+---
+
+### 🔹 Hotel Booking System
+- Pure JavaScript based booking logic
+- Form validation & dynamic UI updates  
+🔗 **Live:** https://hotel-bookingg-system.vercel.app  
+📁 **Code:** https://github.com/simranmaran/Hotel-Bookingg-system  
+
+---
+
+### 🔹 FreshFood Website
+- Fully responsive static website
+- Clean HTML & CSS structure  
+🔗 **Live:** https://freshfood-flame.vercel.app  
+📁 **Code:** https://github.com/simranmaran/freshfood  
+
+---
+
+## 🌱 Open Source Journey
+- Actively preparing for **open-source contributions**
+- Exploring **WordPress, Python & React repositories**
+- Learning:
+  - Git workflow
+  - Issue fixing
+  - Clean PR practices  
+
+> Upcoming goal: **Accepted PRs in production-level repositories**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&hide_title=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simranmaran" width="48%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/simran-maran" target="_blank">LinkedIn</a> |
+  <a href="https://leetcode.com/u/Simranmaran/" target="_blank">LeetCode</a> |
+  <a href="https://www.codechef.com/users/simranmaran10" target="_blank">CodeChef</a>
+</p>
+
+---
+
+⭐ *Always learning, always improving.*
+
