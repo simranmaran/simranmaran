@@ -1,73 +1,61 @@
 <h1 align="center">Hi 👋, I'm Simran Maran</h1>
-<h3 align="center">
-🚀 Full-Stack Python Developer | 🤖 AI-ML Enthusiast | 💡 Passionate Coder
-</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20Views&color=4f46e5&style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;AI+%26+ML+Enthusiast;Backend+%7C+Django+%7C+DRF;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Django-success?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20DRF-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20React-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20Views&color=4f46e5&style=flat" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
 
 🎓 **B.Tech (AI & ML)** – IES College of Technology, Bhopal  
-💻 Backend-focused developer with strong interest in **Django & REST APIs**  
-🤖 Exploring **AI + Web Development** integration  
-🧠 Quick learner, problem solver & collaborative team player  
-📊 Experience with **Power BI** for data visualization  
-🌐 Love building **clean UI + scalable backend systems**  
+💻 Backend-focused developer (Django & REST APIs)  
+🤖 Interested in AI + Web Integration  
+🧠 Quick learner & team player  
+📊 Power BI for data visualization  
 📫 **Email:** `simranmaran10@gmail.com`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### 💻 Programming Languages
-- **Python**
-- **JavaScript**
-- **PHP**
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,php" />
+</p>
 
-### 🧠 Backend & APIs
-- **Django**
-- **Django REST Framework**
-- **RESTful APIs**
-- **WordPress**
+### ⚙️ Backend & APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
 
-### 🎨 Frontend
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
-- **React.js**
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
 
-### 🗄️ Database
-- **MySQL**
-
-### 🧰 Tools & Platforms
-- **Git & GitHub**
-- **Postman**
-- **VS Code**
-- **Power BI**
+### 🗄️ Database & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 | Project | Description | Live | Code |
 |-------|------------|------|------|
-| 🎉 **IES FestHive** | Full-stack college event management platform (React, JWT, MongoDB) | [Live](https://ies-festhive.vercel.app) | [GitHub](https://github.com/simranmaran/IES_Festhive) |
-| 🏨 **Hotel Booking System** | Responsive JS-based booking platform with validation | [Live](https://hotel-bookingg-system.vercel.app) | [GitHub](https://github.com/simranmaran/Hotel-Bookingg-system) |
-| 🍔 **FreshFood Website** | Responsive food ordering website (HTML & CSS) | [Live](https://freshfood-flame.vercel.app) | [GitHub](https://github.com/simranmaran/freshfood) |
+| 🎉 **IES FestHive** | College event platform (React + JWT + MongoDB) | [Live](https://ies-festhive.vercel.app) | [GitHub](https://github.com/simranmaran/IES_Festhive) |
+| 🏨 **Hotel Booking System** | JS based booking system | [Live](https://hotel-bookingg-system.vercel.app) | [GitHub](https://github.com/simranmaran/Hotel-Bookingg-system) |
+| 🍔 **FreshFood Website** | Responsive food website | [Live](https://freshfood-flame.vercel.app) | [GitHub](https://github.com/simranmaran/freshfood) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight" width="48%"/>
@@ -80,15 +68,14 @@
 
 ---
 
-## 📚 Certifications
+## 📚 Certifications  
 
-🏅 **NPTEL – Cloud Computing** (Elite Category, IIT Kharagpur)  
-🏅 **Unstop – E-Commerce Level 1 Participant**  
-🏅 Multiple academic & technical projects under faculty mentorship  
+🏅 **NPTEL – Cloud Computing (Elite, IIT Kharagpur)**  
+🏅 **Unstop – E-Commerce Level 1**  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simran-maran">
@@ -107,7 +94,7 @@
 
 ---
 
-## 💬 Collaboration
+## 💬 Collaboration  
 
-🚀 Open to **internships, backend roles, project collaborations & learning opportunities**  
-✨ Let’s build **impactful and scalable applications** together!
+🚀 Open to **internships, backend roles & collaborations**  
+✨ Let’s build something impactful together!
