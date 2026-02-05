@@ -22,27 +22,6 @@
 
 ---
 
-## 🛠 Tech Stack  
-
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,php" />
-</p>
-
-### ⚙️ Backend & APIs  
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
-
-### 🗄️ Databases & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode" />
-</p>
 
 ---
 
