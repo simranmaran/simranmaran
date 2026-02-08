@@ -1,25 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:00D9FF,100:6366F1&height=180&section=header&text=Simran%20Maran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Python%20Developer%20|%20AI%20%26%20ML&descAlignY=60&descSize=20" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+|+Python+|+Django+|+React;AI+%26+ML+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;React+%7C+Django+%7C+REST+APIs;AI+%26+ML+Enthusiast;Building+Scalable+Web+Apps" />
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simranmaran&label=Profile%20Views&color=6366F1&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/simranmaran?label=Followers&style=for-the-badge&color=6366F1" />
-</p>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 <h3>👩‍💻 About Me</h3>
 
