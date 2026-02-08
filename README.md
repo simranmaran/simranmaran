@@ -9,18 +9,49 @@
 ```javascript
 const simran = {
   name: "Simran Maran",
-  role: "Full Stack Python Developer",
-  education: "B.Tech (AI & ML)",
-  college: "IES College of Technology, Bhopal",
-  location: "🇮🇳 India",
+  title: "Full Stack Python Developer",
+  education: {
+    degree: "B.Tech",
+    specialization: "Artificial Intelligence & Machine Learning",
+    institute: "IES College of Technology, Bhopal"
+  },
+
+  location: "India 🇮🇳",
 
   techStack: {
-    frontend: ["React", "HTML", "CSS", "TailwindCSS"],
+    frontend: {
+      core: ["React", "HTML5", "CSS3"],
+      styling: ["TailwindCSS"]
+    },
     backend: ["Python", "Django", "REST APIs"],
-    database: ["MongoDB", "SQLite"],
+    databases: ["MongoDB", "SQLite"],
     tools: ["Git", "GitHub", "VS Code", "Postman"]
   },
 
-  interests: ["AI + Web Integration", "Scalable Apps", "Clean UI"],
-  funFact: "I turn ideas into code ☕💻"
+  currentlyWorkingOn: [
+    "Full-stack web applications",
+    "AI-powered web features",
+    "Clean & scalable backend systems"
+  ],
+
+  interests: [
+    "AI + Web Integration",
+    "System Design Basics",
+    "User-centric UI/UX"
+  ],
+
+  goals2026: [
+    "Secure a full-stack developer role",
+    "Build production-ready AI projects",
+    "Contribute to open-source"
+  ],
+
+  softSkills: [
+    "Fast Learner",
+    "Problem Solver",
+    "Team Player"
+  ],
+
+  funFact: "I debug more with logic than luck ☕💻"
 };
+
