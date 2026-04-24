@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=120&section=header&animation=fadeIn" width="100%"/>
 
 # Simran Maran
-### Full Stack Developer · AI/ML Engineer · BTech AI @ IES College, Bhopal
+### Full Stack Developer  · BTech AI @ IES College, Bhopal
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;React+%7C+Django+%7C+REST+APIs+%7C+Python;Turning+Ideas+into+Scalable+Products)](https://git.io/typing-svg)
 
@@ -59,13 +59,6 @@ class Simran:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**AI / ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
 
 ## 🚀 Featured Projects
 
