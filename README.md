@@ -119,11 +119,10 @@ A pixel-faithful recreation of Tanishq's product browsing experience — showcas
 
 <div align="center">
 
-![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simranmaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=simranmaran&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simranmaran&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
