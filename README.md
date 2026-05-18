@@ -125,6 +125,33 @@ A pixel-faithful recreation of Tanishq's product browsing experience — showcas
 
 </div>
 
+<!-- =========== Coding Stats (LeetCode) =========== -->
+
+<div align="center">
+<h2>📊 Coding Stats</h2>
+
+<div style="
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+">
+
+<!-- LeetCode Card -->
+<div style="
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 0 15px rgba(99,102,241,0.3);
+  transition: 0.3s;
+">
+  <img src="https://leetcard.jacoblin.cool/Simranmaran?theme=dark&font=Karma&ext=heatmap" width="400"/>
+</div>
+
+</div>
+</div>
+
 ---
 
 ## 🏆 Highlights & Achievements
