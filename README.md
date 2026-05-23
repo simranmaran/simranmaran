@@ -118,10 +118,8 @@ A pixel-faithful recreation of Tanishq's product browsing experience — showcas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simranmaran&theme=tokyo-night&hide_border=true" />
-</p>
-
-<!-- =========== Coding Stats (LeetCode) =========== -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=simranmaran&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p><!-- =========== Coding Stats (LeetCode) =========== -->
 
 <div align="center">
 <h2>📊 Coding Stats</h2>
