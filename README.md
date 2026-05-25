@@ -118,7 +118,7 @@ A pixel-faithful recreation of Tanishq's product browsing experience — showcas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=simranmaran&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=simranmaran&theme=tokyonight&cache_seconds=0"/>
 </p><!-- =========== Coding Stats (LeetCode) =========== -->
 
 <div align="center">
